@@ -35,3 +35,7 @@ La metodología incluyó la calibración de sondas para distintos perfiles de su
   <p style="font-size: 14px; color: gray;">Ensamble de sondas:la imagen mnuestra la construccion de una sistema de sodas de muestreo.</p>
 </div>
 
+
+**Imagenes de la instalacion de los prototipos**
+
+
