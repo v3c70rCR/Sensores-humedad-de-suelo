@@ -15,27 +15,62 @@ En respuesta a la Mega Sequía que afecta a Chile, la Municipalidad de Quilpué 
 
 La metodología incluyó la calibración de sondas para distintos perfiles de suelo y mediciones a profundidades de 15, 30 y 45 cm durante un periodo de tres meses. Cada sonda está compuesta por un sensor capacitivo encapsulado en una estructura impresa en 3D, diseñada para proporcionar soporte y protección. Este arreglo consiste en 3 o 4 sensores dispuestos a lo largo de un tubo de PVC que los une, permit
 
-<div style="text-align: center;">
-  <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101853.png?raw=true" alt="Ensamble" title="Vista isometrica del sensor ensamblado" width="300">
-  <p style="font-size: 14px; color: gray;">Ensamble: Vista isometrica del sensor ensamblado.</p>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20100226.png?raw=true" alt="Descripción de Imagen 1" style="width: 350px;"><br>
+      <strong>Despiece</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101853.png?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong>Unidad sonda ensamblada</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101809.png?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong>Unidad gradiente sondas</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101939.png?raw=true" alt="Descripción de Imagen 3" style="width: 350px;"><br>
+      <strong>Conjunto de sondas gradientes</strong>
+    </td>
+  </tr>
+</table>
 
-<div style="text-align: center;">
-  <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20100226.png?raw=true" alt="despiece" title="Diagrama del sistema" width="300">
-  <p style="font-size: 14px; color: gray;">Despiece : Vista del sistema como despiece.</p>
-</div>
 
-<div style="text-align: center;">
-  <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101809.png?raw=true" alt="sistemas sondas" title="sistema" width="300">
-  <p style="font-size: 14px; color: gray;">Ensamble de sonda: la imagen mnuestra la construccion de una soda de muestreo.</p>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/image/Captura%20de%20pantalla%202024-11-27%20101939.png?raw=true" alt="Diagrama del sistema" title="Diagrama del sistema" width="300">
-  <p style="font-size: 14px; color: gray;">Ensamble de sondas:la imagen mnuestra la construccion de una sistema de sodas de muestreo.</p>
-</div>
+***Imagenes de la instalacion de los prototipos***
 
 
-**Imagenes de la instalacion de los prototipos**
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.12.jpeg?raw=true" alt="Descripción de Imagen 1" style="width: 350px;"><br>
+      <strong>Sonda instalada</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.10%20(1).jpeg?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong>Controlador</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.11%20(1).jpeg?raw=true" alt="Descripción de Imagen 3" style="width: 350px;"><br>
+      <strong>Equipo de trabajo</strong>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.16%20(2).jpeg?raw=true" alt="Descripción de Imagen 1" style="width: 350px;"><br>
+      <strong>Sondas instaladas</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.17.jpeg?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong>Sondas instaladas</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Sensores-humedad-de-suelo/blob/main/Im%C3%A1genes%20en%20terreno/WhatsApp%20Image%202024-11-27%20at%2012.46.42.jpeg?raw=true" alt="Descripción de Imagen 3" style="width: 350px;"><br>
+      <strong>Equipo de trabajo</strong>
+    </td>
+  </tr>
+</table>
 
